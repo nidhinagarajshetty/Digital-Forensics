@@ -1,4 +1,0 @@
-evidence.txt
-This is my digital evidence file
-Modified txt :
-This is my modified digital evidence file
